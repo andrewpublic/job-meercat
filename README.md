@@ -1,5 +1,3 @@
-# job-meercat
-
 This github project is being used alongside a Jira project board + sprints to complete the Issue Tracker project.
 
 A list of the intended sprints will be included at the bottom of this Readme.
@@ -13,7 +11,7 @@ We are focusing on an issue/bug tracker as it is a ubiquitous tool in the indust
 We will utilise the .NET Framework for the webapp as it is an industry standard and has been recommended, alongside the C# language, as entry-level friendly skills that are commonly sought after.
 
 If you would like to contact me -
-Email: andrew.cho1992@gmail.com
+Email: andrewdotcho1992atgmaildotcom
 
 This project began on 11th May 2020 and will be finished by the 16th of August 2020.
 
