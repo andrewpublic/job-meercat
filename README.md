@@ -12,7 +12,9 @@ We will utilise the .NET Framework for the webapp as it is an industry standard 
 If you would like to contact me -
 Email: andrewdotcho1992atgmaildotcom
 
-This project began on 11th May 2020 and will be finished by the 16th of August 2020.
+<hr>
+
+This project begins on 11th May 2020 and will be finished by the 16th of August 2020.
 
 The following are 14 tasks in an unordered list:
 
