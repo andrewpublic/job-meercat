@@ -16,7 +16,7 @@ Email: andrewdotcho1992atgmaildotcom
 
 This project begins on 11th May 2020 and will be finished by the 16th of August 2020.
 
-The following are 14 tasks in an unordered list:
+The following are tasks to be completed in sprints with an estimated time of 1 week each.
 
 1. Planning, Design, Scope, Documentation
 2. User Interface (early)
