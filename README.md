@@ -1,4 +1,4 @@
-This github project is being used alongside a Jira project board + sprints to complete the Issue Tracker project.
+This github project is being used alongside a Jira project board + sprints to complete the Issue Tracker project.<br>
 A list of the intended sprints will be included at the bottom of this Readme.
 
 # Issue Tracker v0.1
