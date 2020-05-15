@@ -14,9 +14,9 @@ Email: andrewdotcho1992atgmaildotcom
 
 <hr>
 
-This project begins on 11th May 2020 and will be finished by the 16th of August 2020.
+This project begins on 11th May 2020.
 
-The following tasks are estimated to take 1 week each.
+The following tasks are estimated to take 1 week each or less.
 
 1. Planning, Design, Scope, Documentation
 2. User Interface (early)
