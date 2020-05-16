@@ -17,4 +17,6 @@ Email: andrewdotcho1992atgmaildotcom
 This project begins on 11th May 2020.
 
 The following section will be updated as sprints are completed.<br>
-In progress - Planning, Design, Scope, Documentation
+In progress (Sprint 1)
+- Planning, Design, Scope, Documentation
+- Project scaffolding and UI (functional or not)
