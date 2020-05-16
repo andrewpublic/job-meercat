@@ -16,18 +16,5 @@ Email: andrewdotcho1992atgmaildotcom
 
 This project begins on 11th May 2020.
 
-The following tasks are estimated to take 1 week each or less.
-
-1. Planning, Design, Scope, Documentation
-2. User Interface (early)
-3. Controller Logic
-4. Database Operations
-5. User accounts, authentication and authorisation
-6. Calendar/Time
-7. Notification System
-8. UI (Final)
-9. Code Cleanup
-10. Extra - Websocket Chatbox
-11. Extra - Github API
-12. Extra - Telstra Mobile API
-13. Extra - Google Maps API
+The following section will be updated as sprints are completed.
+In progress - Planning, Design, Scope, Documentation
